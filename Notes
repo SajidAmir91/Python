@@ -1,0 +1,27 @@
+Introduction to Python for Data Science
+
+Date Started: 8/29/2016
+Website: 
+
+Syllabus will cover:
+  Basic Arithmetic and variables, and eventually how to handle data structures such as lists, arrays, and DataFrames. 
+  Will be introduced to Python functions and control flow
+  Data visualization with Python
+  
+Upon course completion I am supposed to have learned: 
+  Python language fundamentals: basic syntax, variables, and types
+  Create and manipulate regular Python lists
+  Use functions and import packages
+  Build Numpy arrays and perform interesting calculations
+  Create and customize plots on real data
+  Use Control flow and get to know the Pandas data frame
+  
+Python background:
+  Guido Van Rossum created it
+  General Purpose: build anything
+  Open Source
+  Lots of packages, also for data science:
+    Many applications and fiends
+  Will learn Python 3.0
+  
+  
