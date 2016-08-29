@@ -24,4 +24,31 @@ Python background:
     Many applications and fiends
   Will learn Python 3.0
   
+Variables and Types:
+
+  Variable:
+    Specific, case-sensitive name for variables
+    to find out what type of variable a certain variable is, following is the command:
+    New commands learned:
+      type(VariableName)
+    
+  Types:
+    Strings
+      Can be declared using "texthere" or 'texthere'
+    Boolean
+    
+    In Python, different types behave differently during manipulation/computation. For example, 
+    
+    2+3 will yield a result of 5 while adding two strings, 'ab' + 'cd' will give 'abcd'
+    
+    However, interestingly if I want to say something like print ("I started with " + savings + " and awesome " + interestes) it will not work
+    
+  Type Conversion:
+    In the aforementioned case, we need to use a type conversion. That is as we have string and floats/integers in the same command, it will not work. We have to use str() to convert the float or integer variables here
+    New commands learned:
+      str(), int(), float(), bool()
+    
+    
+    
+  
   
